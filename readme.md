@@ -1,6 +1,6 @@
 ![repo-banner](https://raw.githubusercontent.com/henriquezolini/login-sliding-form/master/cover.gif)
 
-# Card de Perfil com tema Dark e Light
+# Login & Registro com efeito Slide
 
 Demo: [https://login-sliding-form.vercel.app/](https://login-sliding-form.vercel.app/)
 
@@ -22,7 +22,7 @@ yarn dev
 
 ## Idéia
 
-Exemplo de um card com o perfil de um usuário com as funções de alterar tema para dark e light.
+Exemplo de uma tela de login com transição em slide para a tela de registro utilizando CSS3.
 
 #### Author
 
